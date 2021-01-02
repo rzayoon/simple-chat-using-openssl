@@ -2,6 +2,7 @@
 simple chat server and client using openssl
 
 1. prerequisited
+
 libssl1.0-dev
 
 sudo apt install -y make libssl1.0-dev
